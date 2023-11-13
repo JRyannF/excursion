@@ -1,0 +1,46 @@
+body {
+ background-color: black;
+ color: white;
+ text-align: center;
+ font-family: Verdana;
+ display: block;
+ margin: 10px;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+video {
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+}
+
+.travel-guide h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.travel-guide p{
+    font-size: 21px;
+    color: gray;
+}
+
+
+footer {
+    color: gray;
+    font-size: 16px;
+    padding: 10px;
+    text-align: right;
+}
